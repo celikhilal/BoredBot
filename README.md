@@ -1,2 +1,5 @@
 # BoredBot
-scrimba project with api
+scrimba project
+APIs
+JSON
+fetch
